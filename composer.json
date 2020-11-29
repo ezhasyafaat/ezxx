@@ -1,0 +1,14 @@
+{
+    "name": "ezxx/my-resume",
+    "description": "resume template redesign by ezxx",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ezxxcode",
+            "email": "muhammadezhasyafaat08@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
